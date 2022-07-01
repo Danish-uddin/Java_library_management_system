@@ -36,8 +36,8 @@ The owner can easily update, delete and insert data in the database with this pr
 
 ### Add new account
 
-![Add new account image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/add%20new%20account.png?raw=true)
+![new account image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/new%20account.png?raw=true)
 
-### Transfer
+### Return Book
 
-![Transfer image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/transfer.png?raw=true)
+![Return book image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/return%20book.png?raw=true)
