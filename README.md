@@ -12,5 +12,28 @@ The owner can easily update, delete and insert data in the database with this pr
 4. Update the details of students.
 5. Print the details of studnets, etc.
 
+# Application Screenshots
 
+### Login
 
+![Login image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/login.png?raw=true)
+
+### Register
+
+![Register image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/register%20new.png?raw=true)
+
+### Home
+
+![Home Page image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/home.png?raw=true)
+
+### Profile
+
+![Profile image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/profile.png?raw=true)
+
+### Transaction History
+
+![History image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/history.png?raw=true)
+
+### Transfer
+
+![Transfer image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/transfer.png?raw=true)
