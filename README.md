@@ -16,23 +16,27 @@ The owner can easily update, delete and insert data in the database with this pr
 
 ### Login
 
-![Login image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/login.png?raw=true)
+![Login image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/login.png?raw=true)
 
-### Register
+### New account
 
-![Register image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/register%20new.png?raw=true)
+![New account image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/new%20account.png?raw=true)
 
-### Home
+### Forgot password
 
-![Home Page image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/home.png?raw=true)
+![Forgot password image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/forgot%20password.png?raw=true)
 
-### Profile
+### Dashboard
 
-![Profile image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/profile.png?raw=true)
+![Dashboard image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/dashboard.png?raw=true)
 
-### Transaction History
+### Add new book
 
-![History image](https://github.com/Danish-uddin/banking_spring_boot/blob/master/readme-images/history.png?raw=true)
+![Add new book image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/add%20new%20book.png?raw=true)
+
+### Add new account
+
+![Add new account image](https://github.com/Danish-uddin/Java_library_management_system/blob/master/readme-images/add%20new%20account.png?raw=true)
 
 ### Transfer
 
